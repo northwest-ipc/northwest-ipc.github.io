@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northwest-ipc.au/sitemap.xml
