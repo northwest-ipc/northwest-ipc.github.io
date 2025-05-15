@@ -10,6 +10,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://northwest-ipc.github.io/tags/home-meeting/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://northwest-ipc.github.io/kebaktian/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
