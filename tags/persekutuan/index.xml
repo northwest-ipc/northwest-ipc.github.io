@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Persekutuan on NorthWest IPC</title>
-    <link>https://northwest-ipc.github.io/tags/persekutuan/</link>
+    <link>http://localhost:1313/tags/persekutuan/</link>
     <description>Recent content in Persekutuan on NorthWest IPC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 May 2025 01:00:00 +0000</lastBuildDate>
-    <atom:link href="https://northwest-ipc.github.io/tags/persekutuan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/persekutuan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Persekutuan Akhir Bulan - 31 Mei 2025</title>
-      <link>https://northwest-ipc.github.io/posts/persekutuan-ahir-bulan-31may2025/</link>
+      <link>http://localhost:1313/posts/persekutuan-ahir-bulan-31may2025/</link>
       <pubDate>Sun, 18 May 2025 01:00:00 +0000</pubDate>
-      <guid>https://northwest-ipc.github.io/posts/persekutuan-ahir-bulan-31may2025/</guid>
-      <description>&lt;p&gt;Saudara2x, persekutuan kita selanjutnya akan di adakan sabtu tgl 31May di Riverstone.&lt;br&gt;&#xA;Mari kita dukung dan doakan.&lt;/p&gt;&#xA;&lt;p&gt;Pembicara: (akan datang)&lt;/p&gt;&#xA;&lt;p&gt;Tempat and waktu di halaman &lt;a href=&#34;../kebaktian&#34;&gt;Kebaktian&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/persekutuan-ahir-bulan-31may2025/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/posts/kebaktian-31may2025.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Saudara-saudara, persekutuan kita selanjutnya akan di adakan Sabtu tanggal 31 Mei di Riverstone.&lt;br&gt;&#xA;Mari kita dukung dan doakan.&lt;/p&gt;&#xA;&lt;p&gt;Tempat and waktu di halaman &lt;a href=&#34;http://localhost:1313/kebaktian&#34;&gt;Kebaktian&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

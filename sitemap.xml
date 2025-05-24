@@ -2,46 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://northwest-ipc.github.io/</loc>
-    <lastmod>2025-05-18T01:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/tags/persekutuan/</loc>
-    <lastmod>2025-05-18T01:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/posts/persekutuan-ahir-bulan-31may2025/</loc>
-    <lastmod>2025-05-18T01:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/tags/</loc>
-    <lastmod>2025-05-18T01:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/posts/</loc>
-    <lastmod>2025-05-18T01:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/tags/home-meeting/</loc>
-    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/posts/home-meeting-21jun2025/</loc>
-    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://northwest-ipc.github.io/posts/home-meeting-17may2025/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://northwest-ipc.github.io/aktivitas/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -55,6 +15,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://northwest-ipc.github.io/kontak/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://northwest-ipc.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://northwest-ipc.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
