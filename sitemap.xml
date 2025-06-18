@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://northwest-ipc.github.io/posts/warta/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://northwest-ipc.github.io/aktivitas/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -27,6 +31,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://northwest-ipc.github.io/tentang-kami/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://northwest-ipc.github.io/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
